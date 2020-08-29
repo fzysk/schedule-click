@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleClick.Core", "ScheduleClick.Core\ScheduleClick.Core.csproj", "{9C1058DA-9561-4473-A8DD-9F5C5359D129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleClick.UI", "ScheduleClick.UI\ScheduleClick.UI.csproj", "{6775F7A9-6B7C-4B10-BB05-96C743A1E321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1058DA-9561-4473-A8DD-9F5C5359D129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1058DA-9561-4473-A8DD-9F5C5359D129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1058DA-9561-4473-A8DD-9F5C5359D129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1058DA-9561-4473-A8DD-9F5C5359D129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6775F7A9-6B7C-4B10-BB05-96C743A1E321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6775F7A9-6B7C-4B10-BB05-96C743A1E321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6775F7A9-6B7C-4B10-BB05-96C743A1E321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6775F7A9-6B7C-4B10-BB05-96C743A1E321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34CE00A4-475E-4230-9EFE-7762AE368645}
+	EndGlobalSection
+EndGlobal
