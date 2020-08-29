@@ -3,9 +3,7 @@
     public enum EventType
     {
         Click,
-        RightClick,
         DoubleClick,
-        RightDoubleClick,
         KeyboardClick
     }
 }

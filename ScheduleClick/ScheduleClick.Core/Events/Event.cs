@@ -4,6 +4,9 @@ namespace ScheduleClick.Core.Events
 {
     internal abstract class Event : IEvent
     {
-        internal abstract void Run();
+        internal virtual void Run()
+        {
+            // log click;
+        }
     }
 }

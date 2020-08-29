@@ -2,6 +2,6 @@
 {
     interface IClickEvent : IEvent
     {
-        IDelayEvent Click(int x, int y);
+        IDelayEvent Click(IClickArgs clickArgs);
     }
 }
